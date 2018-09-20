@@ -1,5 +1,5 @@
 # Machine-Learning-Practice
-Practicing machine learning techniques by following online tutorials or courses.
+Practicing machine learning techniques by following examples from online tutorials or courses.
 1. Data manipulation/pre-processing using Pandas
 
 2. Regression :
